@@ -17,7 +17,7 @@ NLP based Contract Analysis System using Legal-BERT
 ## 📸 Screenshots
 
 ### 🖥️ Gradio Web Interface
-![Demo Screenshot](demo(1).png)
+![Demo Screenshot](demo(2).png)
 
 ### 📊 Sample Output
 ![Output Screenshot](image(4).png)
