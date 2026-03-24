@@ -172,21 +172,8 @@ apt-get install poppler-utils
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Your Name | Model Training & Development |
-| Team Member 2 | Data Preprocessing |
-| Team Member 3 | UI & Deployment |
-
-> **Subject:** Natural Language Processing / Deep Learning
-> **Institution:** Your College Name
-
----
-
 ## 📄 License
 MIT License
 ```
 
--
+
