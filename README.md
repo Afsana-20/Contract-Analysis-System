@@ -17,13 +17,12 @@ NLP based Contract Analysis System using Legal-BERT
 ## 📸 Screenshots
 
 ### 🖥️ Gradio Web Interface
-![Demo Screenshot](screenshots/demo.png)
+![Demo Screenshot](demo(1).png)
 
 ### 📊 Sample Output
-![Output Screenshot](screenshots/output.png)
+![Output Screenshot](image(4).png)
 
-### 📉 Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+
 
 ---
 
@@ -121,7 +120,7 @@ Contract-Analysis-System/
 ├── README.md                        ← Project documentation
 ├── requirements.txt                 ← Dependencies
 ├── sample_contract.pdf              ← Sample contract for testing
-├── demo.png                     ← Gradio UI screenshot
+├── demo(1).png                     ← Gradio UI screenshot
 ├── image(4).png                   ← Sample output screenshot
 
 ```
