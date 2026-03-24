@@ -123,7 +123,7 @@ Contract-Analysis-System/
 ├── sample_contract.pdf              ← Sample contract for testing
 ├── demo.png                     ← Gradio UI screenshot
 ├── image(4).png                   ← Sample output screenshot
-└── confusion_matrix.png         ← Model evaluation screenshot
+
 ```
 
 ---
