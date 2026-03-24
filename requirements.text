@@ -1,0 +1,13 @@
+transformers==4.40.0
+datasets==2.19.0
+gradio==4.29.0
+torch==2.3.0
+scikit-learn==1.4.2
+seqeval==1.2.2
+pytesseract==0.3.10
+pillow==10.3.0
+pdf2image==1.17.0
+spacy==3.7.4
+sentence-transformers==2.7.0
+numpy==1.26.4
+pandas==2.2.2
